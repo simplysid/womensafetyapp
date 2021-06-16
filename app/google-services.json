@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "965179211598",
+    "firebase_url": "https://womensafety28-default-rtdb.firebaseio.com",
+    "project_id": "womensafety28",
+    "storage_bucket": "womensafety28.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:965179211598:android:aae592d78a0877aaa5281f",
+        "android_client_info": {
+          "package_name": "com.example.registration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "965179211598-lf9va11ejaf09f92v9m6smlefqc0kjnn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD72QQtwu7wniL6Yt5PsVA6zRgLqmhRmKo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "965179211598-lf9va11ejaf09f92v9m6smlefqc0kjnn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
